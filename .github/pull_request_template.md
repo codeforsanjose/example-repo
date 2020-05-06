@@ -11,18 +11,18 @@
 - Will your Pull Request break existing changes? If yes, how so?
   - **Your response here:**
 
-##### Check if applicable
+#### Check if applicable
 
--[x] Example checked item 
--[ ] If you changed the user interface, did you add before and after screenshots to your Pull Request?
--[ ] Have you discussed these changes with the project leader(s)?
+- [x] Example checked item 
+- [ ] If you changed the user interface, did you add before and after screenshots to your Pull Request?
+- [ ] Have you discussed these changes with the project leader(s)?
 
 
 ### Screenshots
 
-##### Before
+#### Before
 <!--- Insert before screenshots -->
 
 
-##### After
+#### After
 <!--- Insert after screenshots -->
