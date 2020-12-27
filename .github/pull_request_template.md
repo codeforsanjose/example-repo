@@ -3,10 +3,10 @@
 - Describe the general shape of this PR (new feature? refactor? bug fix? one-line change?)
 <!--- Add your answer here -->
 
-- What are the changes being made?
+- Describe what changes are being made
 <!--- Add your answer here -->
 
-- Why are these changes being made?
+- Describe why these changes are being made
 <!--- Add your answer here -->
 
 - List the use cases and edge cases relevant to this PR
