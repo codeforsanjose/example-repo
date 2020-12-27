@@ -1,28 +1,58 @@
-### Description
+### :scroll: Description
 
-<!--- Insert a brief description of changes made in this PR -->
+- Describe the general shape of this PR (new feature? refactor? bug fix? one-line change?)
+<!--- Add your answer here -->
+
+- What are the changes being made?
+<!--- Add your answer here -->
+
+- Why are these changes being made?
+<!--- Add your answer here -->
+
+- List the use cases and edge cases relevant to this PR
+<!--- Add your answer here -->
+
+- Describe how errors will be handled. How will we know if this code breaks in production
+<!--- Add your answer here -->
+
+- Describe any external libraries/dependencies added or removed in this PR
+<!--- Add your answer here -->
+
+- Describe any security risks are there regarding this change
+<!--- Add your answer here -->
+
+- Describe how you tested these changes
+<!--- Add your answer here -->
+
+- Link to relevant external documentation
+<!--- Add your answer here -->
+<!--- Example: API docs, architecture diagrams, MDN docs -->
 
 
-### Required Questions
+--------------------------
+### :clipboard: Mandatory Checklist
 
-- How did you test your code?
-  - **Your response here:**
-  
-- Will your Pull Request break existing changes? If yes, how so?
-  - **Your response here:**
+- [x] Example of a checked item (please remove when creating your Pull Request) 
 
-#### Check if applicable
-
-- [x] Example checked item 
-- [ ] If you changed the user interface, did you add before and after screenshots to your Pull Request?
+- [ ] Linked to the Github Issues being addressed using the right sidebar :arrow_right:
 - [ ] Have you discussed these changes with the project leader(s)?
+- [ ] Do all variable and function names communicate what they do?
+- [ ] Were all the changes commented and / or documented?
+- [ ] Is the PR the right size? (If the PR is too large to review, it might be good to break it up into multiple PRs.)
+- [ ] Does all work in progress, temporary, or debugger code have a TODO comment with links to Github issues?
+- [ ] *If you changed the user interface, did you add before and after screenshots to below?*
+
+--------------------------
+### :framed_picture: Screenshots and Screen Recordings
+
+##### Before
+<!--- Add before screenshots here -->
 
 
-### Screenshots
-
-#### Before
-<!--- Insert before screenshots -->
+##### After
+<!--- Add after screenshots here -->
 
 
-#### After
-<!--- Insert after screenshots -->
+--------------------------
+### :blue_book: Glossary
+- PR = Pull Request
